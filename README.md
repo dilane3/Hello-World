@@ -1,2 +1,2 @@
 # Hello-World
-this is my Hello word's directory
+this is my Hello world's directory
